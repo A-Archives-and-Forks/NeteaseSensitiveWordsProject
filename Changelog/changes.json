@@ -4829,5 +4829,45 @@
                 "modified": []
             }
         }
+    },
+    {
+        "date": "2026-08-07 13:39:45",
+        "gameid": "x19",
+        "changes": {
+            "nickname": {
+                "added": [
+                    "(?i)president"
+                ],
+                "removed": [],
+                "modified": []
+            },
+            "shield": {
+                "added": [
+                    "(?i)president"
+                ],
+                "removed": [],
+                "modified": []
+            }
+        }
+    },
+    {
+        "date": "2026-08-07 13:39:45",
+        "gameid": "g79",
+        "changes": {
+            "nickname": {
+                "added": [
+                    "(?i)president"
+                ],
+                "removed": [],
+                "modified": []
+            },
+            "shield": {
+                "added": [
+                    "(?i)president"
+                ],
+                "removed": [],
+                "modified": []
+            }
+        }
     }
 ]
